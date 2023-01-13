@@ -1,0 +1,44 @@
+/* body {
+    background-color: #000;
+}
+
+.movies {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.movies li {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 12px;
+    text-align: center;
+    background: whitesmoke;
+}
+
+.movies li img {
+    max-width: 300px;
+    border-radius: 12px;
+}
+
+.movies li h2 {
+    color: black;
+    font-size: 20px;
+}
+
+#mov {
+    color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+    font-size: xx-large;
+    font-family: "Oswald", sans-serif;
+}
+
+footer {
+    color: whitesmoke;
+    text-align: center;
+} */
